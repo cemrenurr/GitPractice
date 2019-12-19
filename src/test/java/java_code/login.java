@@ -1,8 +1,9 @@
 package java_code;
 
-public class gitpractice {
+public class login {
     public static void main(String[] args) {
         System.out.println("hello world");
+        System.out.println("new git");
     }
     /*
     Git init-> create repository we use only once.
